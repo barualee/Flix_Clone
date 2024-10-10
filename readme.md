@@ -1,10 +1,10 @@
 ### Project Description: Video Streaming Website
 
-This project is a full-fledged video streaming platform similar to Netflix, developed using JavaScript, PHP, HTML, CSS, and MySQL. 
+This project is a video streaming platform similar to Netflix, developed using JavaScript, PHP, HTML, CSS, and MySQL. 
 It features user registration, allowing users to create accounts and verify via email. 
-The platform supports movie and TV show streaming, organized by genres and popularity.
+The platform supports movie and TV show streaming, organized by genres.
 
-A live search feature enables users to quickly find content, enhancing the browsing experience. 
+A search feature enables users to quickly find content, enhancing the browsing experience. 
 For premium access, PayPal integration allows secure subscription payments, ensuring a seamless transaction process.
 
 **Technologies Used:**
