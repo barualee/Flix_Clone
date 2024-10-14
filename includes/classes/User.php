@@ -25,8 +25,7 @@ class User {
     }
 
     public function getIsSubscribed() {
-        //return $this->sqlData["isSubscribed"];
-        return true;
+        return $this->sqlData["isSubscribed"];
     }
 }
 ?>
