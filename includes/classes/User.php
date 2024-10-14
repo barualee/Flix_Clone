@@ -3,6 +3,7 @@ class User {
     private $con, $sqlData;
 
     public function __construct($con, $username) {
+        
         $this->con = $con;
 
         $query = $con->prepare("SELECT * FROM users WHERE username=:username");
